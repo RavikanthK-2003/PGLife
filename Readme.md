@@ -1,0 +1,2 @@
+# PGLife
+* PGLife is a website that was created for Paid Guests who stay in different places in India's most famous cities. It provides rental services for customers to book rooms over selected places.
